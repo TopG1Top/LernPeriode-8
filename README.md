@@ -19,4 +19,4 @@ Ziel ist das ich mind jede note über eine 5 habe
 # 24.1.2025
 [] Modul 295 arbeiten weiter vertiefen API datenbank verinden und so
 [] Modul 346 docker weiter arbeiten aufträge lösen
-[] Youtube videos schauen über backend
+[] Youtube videos schauen über backend Modul 114 aufträge inkl moodle tests lösen
